@@ -1,0 +1,7 @@
+C:\Users\Валентин\source\repos\Console_PRG\Console_PRG\obj\Debug\Console_PRG.csprojAssemblyReference.cache
+C:\Users\Валентин\source\repos\Console_PRG\Console_PRG\obj\Debug\Console_PRG.csproj.CoreCompileInputs.cache
+C:\Users\Валентин\source\repos\Console_PRG\Console_PRG\bin\Debug\Console_PRG.exe.config
+C:\Users\Валентин\source\repos\Console_PRG\Console_PRG\bin\Debug\Console_PRG.exe
+C:\Users\Валентин\source\repos\Console_PRG\Console_PRG\bin\Debug\Console_PRG.pdb
+C:\Users\Валентин\source\repos\Console_PRG\Console_PRG\obj\Debug\Console_PRG.exe
+C:\Users\Валентин\source\repos\Console_PRG\Console_PRG\obj\Debug\Console_PRG.pdb
